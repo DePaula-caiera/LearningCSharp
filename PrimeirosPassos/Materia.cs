@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PrimeirosPassos;
 
-internal class Materia
+public class Materia
 {
-    string? Nome;
+    public string? Nome;
 }

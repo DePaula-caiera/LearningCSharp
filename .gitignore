@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/HelloWord/v17
+/.vs/HelloWord/FileContentIndex
+/HelloWord/obj
+/HelloWord/bin/Debug/net6.0
